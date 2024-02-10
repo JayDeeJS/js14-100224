@@ -1,0 +1,15 @@
+.wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.wrapper .element {
+    width: 40%;
+    padding: 10px;
+    text-align: center;
+    background: green;
+    border-radius: 10px;
+}
